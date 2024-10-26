@@ -11,7 +11,7 @@ body{
     align-items: center;
 }
 .container{
-    margin-top: 30%;
+    margin-top: 20%;
 }
 .container #selector img{
     transition: transform 0.5s;
@@ -20,7 +20,7 @@ body{
 .container #selector{
     width: 400px;
     height: 30px;
-    background-color: #fbf5f533;
+    background-color: #fbf5f54f;
     border-radius: 5px;
     font-size: 17px;
     padding-left: 10px;
@@ -30,7 +30,7 @@ body{
 .container #list{
     list-style: none;
     margin-top: 25px;
-    background-color: #fbf5f533;
+    background-color: #fbf5f54f;
     border-radius: 12px;
 }
 
